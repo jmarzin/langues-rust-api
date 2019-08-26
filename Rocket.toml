@@ -1,0 +1,2 @@
+[global.databases]
+postgres_db = { url = "postgres://postgres:51julie2@localhost:5432/langues_copie", pool_size = 5 }
